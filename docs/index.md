@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Mike Brady – Detection Engineering Portfolio"
 ---
 
 # 👋 About Me
