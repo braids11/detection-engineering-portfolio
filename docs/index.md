@@ -1,3 +1,24 @@
+---
+
+# 👋 About Me
+
+Hi, I’m **<YOUR NAME>** — a security enthusiast specializing in:
+
+- Detection Engineering  
+- MITRE ATT&CK & CAR Analytics  
+- Threat Hunting  
+- Hands-on Security Operations  
+
+### 📬 Contact  
+- **Email:** <youremail@example.com>  
+- **LinkedIn:** [Your Name](https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG)  
+- **GitHub:** [yourusername](https://github.com/yourusername)  
+
+### 👤 Profile Picture  
+<img src="../assets/profile.jpg" alt="Profile picture" width="150" style="border-radius:50%;">
+
+---
+
 # Detection Engineering Portfolio
 
 Welcome! This site showcases my hands-on work in:
