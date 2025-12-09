@@ -62,3 +62,4 @@ WIRESHARK FILTER - tcp.port == 445 && (smb.cmd == 0x73 || smb2.cmd == 1)
 
 
 
+T
