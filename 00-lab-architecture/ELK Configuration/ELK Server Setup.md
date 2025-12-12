@@ -64,7 +64,9 @@ sudo nano /etc/elasticsearch/elasticsearch.yml
 ```
 
 ```yaml
+cluster.name: Det-Eng-SIEM
 network.host: 0.0.0.0
+xpack.security.enabled: true
 ```
 
 ```bash
@@ -107,12 +109,21 @@ sudo apt install kibana -y
 
 Edit config:
 
+Reset and save kibana_system user password.
+```bash
+sudo ES_PATH_CONF=/etc/elasticsearch /usr/share/elasticsearch/bin/elasticsearch-reset-password -u kibana_system --url https://localhost:9200
+```
+
+Edit the kibana yaml
 ```bash
 sudo nano /etc/kibana/kibana.yml
 ```
 
 ```yaml
 server.host: "0.0.0.0"
+xpack.security.enabled: true
+elasticsearch.username: "kibana_system"
+elasticsearch.password: "<password>"
 ```
 
 Start Kibana:
