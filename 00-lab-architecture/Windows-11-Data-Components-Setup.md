@@ -20,6 +20,10 @@ sudo .\sysmon64.exe -i .\sysmonconfig-export.xml
 
 ### 2.2 Windows Advanced Logging
 
+### 2.3 ELK Stack
+
+https://www.linuxtechi.com/how-to-install-elk-stack-on-ubuntu/
+
 
 
 
