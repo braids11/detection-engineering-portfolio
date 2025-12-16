@@ -6,4 +6,11 @@ This detection engineering exercise was inspired by a talk at ATT&CKcon titled â
 
 During the [presentation](https://mitre.app.box.com/s/3lynwg8ebc80lolprvz144ev8n04p19v/file/2025241729734), they demonstrated how their intelligence analysis identified [Ingress Tool Transfer (T1105)](https://attack.mitre.org/techniques/T1544) and [Application Layer Protocol: Web Protocols (T1071.001)](https://attack.mitre.org/techniques/T1071/001/) as two techniques that frequently appear together across real world threat activity. 
 
-Motivated by this example, I wanted to test my detection engineering ability by building and validating a behavioral detection rule in my home lab using ELK, focusing on PowerShell based payload staging over web protocols and mapping the detection directly to MITRE ATT&CK techniques.
+Motivated by this example, I thought this was a great starting point to test my detection engineering ability by building and validating a behavioral detection rule in my home lab using ELK, focusing on PowerShell based payload staging over web protocols and mapping the detection directly to MITRE ATT&CK techniques.
+
+## Adversary Behavior Overview
+
+
+## Lab Setup & Execution
+
+

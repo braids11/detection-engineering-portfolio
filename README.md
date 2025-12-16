@@ -36,19 +36,6 @@ The lab will evolve as I complete more analytics and experiments.
 04-telemetry-experiments/→ Sysmon, Event Logs, Zeek logs
 05-writeups/ → General detection engineering articles
 
-
----
-
-## 📘 MITRE CAR Analytics Progress
-
-| CAR ID | Analytic Name | Status |
-|-------|---------------|--------|
-| CAR-2013-09-003 | SMB Session Setups | 🔜 Planned |
-| CAR-2014-04-001 | Suspicious Process Injection | 🔜 Planned |
-| CAR-2016-03-001 | Registry Persistence | 🔜 Planned |
-
-I will update this table as I complete each challenge.
-
 ---
 
 ## 🎯 Goals
