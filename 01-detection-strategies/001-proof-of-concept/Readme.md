@@ -13,4 +13,10 @@ Motivated by this example, I thought this was a great starting point to test my 
 
 ## Lab Setup & Execution
 
+![PowerShell web download execution](evidence/powershell_execution.png)
+
+![ELK Rule](evidence/001-Rule.png)
+
+![Document Value](evidence/ElasticDocument.md)
+
 
