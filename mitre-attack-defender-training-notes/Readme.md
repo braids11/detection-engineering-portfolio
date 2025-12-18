@@ -6,4 +6,4 @@ The notes are written in my own words and reflect my understanding of the course
 
 Any diagrams or visuals are either recreated by me or included only where they help explain a concept.
 
-The original courses can be found on the [MAD20.com](https://mad20.com) website
+The original courses can be found on the [MAD20.com](https://mad20.com) website.
